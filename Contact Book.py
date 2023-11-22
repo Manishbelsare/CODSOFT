@@ -1,7 +1,7 @@
 import PySimpleGUI as sg
 import csv
 
-sg.theme('Darkblue')  # Add a touch of color
+sg.theme('DarkGreen')  # Add a touch of color
 sg.set_options(font='Arial 16')
 
 # All the stuff inside your window
